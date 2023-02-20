@@ -1,0 +1,21 @@
+{
+  "name": "slidev",
+  "private": true,
+  "scripts": {
+    "build": "slidev build -o ../dist/gasshuku23spring-LT --base /gasshuku23spring-LT/",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.3",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-geist": "^0.8.1"
+  },
+  "description": "To start the slide show:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

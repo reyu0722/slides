@@ -1,0 +1,22 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "memo ``` npm init slidev@latest ```",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build --workspaces"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/reyu0722/slides.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyu0722/slides/issues"
+  },
+  "workspaces": [
+    "gasshuku23spring_LT"
+  ]
+
+}
