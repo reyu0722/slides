@@ -4,7 +4,7 @@
   "description": "memo ``` npm init slidev@latest ```",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build --workspaces"
+    "build": "npm run build --workspaces && copyfiles index.html dist"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "workspaces": [
     "gasshuku23spring_LT"
-  ]
-
+  ],
+  "dependencies": {
+    "copyfiles": "^2.4.1"
+  }
 }
