@@ -16,7 +16,7 @@
     "url": "https://github.com/reyu0722/slides/issues"
   },
   "workspaces": [
-    "gasshuku23spring_LT"
+    "gasshuku23spring-LT"
   ],
   "dependencies": {
     "copyfiles": "^2.4.1"
