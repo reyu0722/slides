@@ -2,7 +2,7 @@
   "name": "slidev",
   "private": true,
   "scripts": {
-    "build": "slidev build -o ../dist/gasshuku23spring-LT --base /gasshuku23spring-LT/",
+    "build": "slidev build -o ../dist/ranpro-gasshuku23spring --base /ranpro-gasshuku23spring",
     "dev": "slidev --open",
     "export": "slidev export"
   },
